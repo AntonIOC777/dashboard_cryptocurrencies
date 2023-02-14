@@ -1,5 +1,5 @@
 # Cryptocurrency prices dashboard
-This Streamlit app is [deployed on Streamlit Sharing](https://share.streamlit.io/). You can also clic on this [link](https://github.com/AntonIOC777/dashboard_cryptocurrencies) to visualize the dashboard.
+This Streamlit app is [deployed on Streamlit Sharing](https://share.streamlit.io/). You can also clic on this [link](https://antonioc777-dashboard-cryptocurrencies-streamlit-app-1ph1yk.streamlit.app/) to visualize the dashboard.
 
 This dashboard represents the change of the price for one hundred of the most popular cryptocurrencies over the last year.
 
