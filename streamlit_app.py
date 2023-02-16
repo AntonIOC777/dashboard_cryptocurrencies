@@ -4,12 +4,12 @@ import altair as alt
 from datetime import date
 
 st.title("Cryptocurrency prices dashboard")
-st.write("""This dashboard represents the change of the price for one hundred of the most popular cryptocurrencies 
-over the last year. The data is obtained from https://docs.coincap.io/""")
+st.write("""This dashboard represents the price change of one hundred most popular cryptocurrencies 
+over the last year. The data obtained from https://docs.coincap.io/""")
 
 st.sidebar.info(
     """
-    This app is the test dashboard.
+    This app is the test dashboard. You can find the GIT repository via this link https://github.com/AntonIOC777/dashboard_cryptocurrencies/
     """
 )
 
